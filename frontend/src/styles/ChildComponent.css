@@ -1,0 +1,16 @@
+.child-content{
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.child-content>input{
+    color: black;
+    border-color: black;
+    background-color: blue;
+}
+
+.child-content>.child-button{
+    
+}
